@@ -1,0 +1,79 @@
+{
+    "common": {
+        "login": "로그인",
+        "logout": "로그아웃",
+        "home": "홈",
+        "search": "검색",
+        "learning": "내 강의",
+        "profile": "프로필",
+        "nextGenLearning": "차세대 학습",
+        "exploreCourses": "코스 탐색",
+        "viewRoadmap": "로드맵 보기",
+        "featuredCourses": "추천 코스",
+        "viewAll": "전체 보기",
+        "subscribe": "구독하기",
+        "enterEmail": "이메일을 입력하세요",
+        "joinCommunity": "빌더 커뮤니티 가입",
+        "newsletterDesc": "도시 계획의 AI 혁신 소식과 독점 코스 할인 정보를 매주 받아보세요."
+    },
+    "login": {
+        "welcome": "다시 오신 것을 환영합니다",
+        "desc": "로그인하여 AI 도시 건설 코스와 리소스에 액세스하세요.",
+        "google": "Google 계정으로 로그인",
+        "newTo": "AI City Builders가 처음이신가요?",
+        "createAccount": "계정 만들기"
+    },
+    "profile": {
+        "status": "상태",
+        "freeUser": "무료 사용자",
+        "enrolled": "등록됨",
+        "courses": "{{count}}개 코스",
+        "accountSettings": "계정 설정",
+        "orderHistory": "주문 내역",
+        "notifications": "알림"
+    },
+    "course": {
+        "heroTitle": "AI 도시주의의 미래를 마스터하세요",
+        "heroDesc": "차세대 스마트 시티 건축가, 빌더 및 도시 데이터 과학자를 위한 전문 교육.",
+        "searchPlaceholder": "AI 코스, 도구 또는 강사 검색...",
+        "topics": {
+            "all": "전체 주제",
+            "architecture": "건축",
+            "urbanPlanning": "도시 계획",
+            "dataScience": "데이터 과학"
+        }
+    },
+    "plans": {
+        "overview": "코스 개요",
+        "about": "코스 소개",
+        "aboutDesc": "생성형 AI가 미래 도시를 설계, 계획 및 건설하는 방식을 어떻게 혁신하고 있는지 알아보세요. 이 코스는 도시 계획 이론과 고급 머신 러닝 모델 간의 간극을 메워 지속 가능성과 효율성을 최적화합니다.",
+        "curriculum": "커리큘럼",
+        "modules": "모듈",
+        "selectPlan": "플랜 선택",
+        "planDesc": "사용자의 학습 스타일에 맞는 경로를 선택하세요",
+        "basic": "베이직",
+        "pro": "프로",
+        "recommended": "추천",
+        "oneTime": "일시불",
+        "enroll": "{{title}} 등록하기",
+        "select": "{{title}} 선택하기"
+    },
+    "checkout": {
+        "title": "결제",
+        "desc": "Pro 구독을 완료하고 미래를 건설해 보세요.",
+        "successTitle": "결제 성공!",
+        "successDesc": "AI 도시주의의 미래에 오신 것을 환영합니다. 이제 프로 계정이 활성화되었습니다. 홈으로 이동 중...",
+        "summary": "주문 요약",
+        "proPlan": "프로 플랜",
+        "infraAccess": "글로벌 인프라 액세스",
+        "cycle": "구독 주기",
+        "monthly": "월간",
+        "fee": "처리 수수료",
+        "waived": "면제",
+        "totalDue": "오늘 결제 금액",
+        "payment": "PayPal 안전 결제",
+        "secureInfo": "보안 결제 처리 중",
+        "verifiedNode": "인증된 글로벌 노드",
+        "terms": "결제를 완료하면 이용 약관에 동의하게 됩니다. 구독은 자동으로 갱신됩니다. PayPal을 통해 안전하게 처리됩니다."
+    }
+}

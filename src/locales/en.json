@@ -1,0 +1,79 @@
+{
+    "common": {
+        "login": "Login",
+        "logout": "Logout",
+        "home": "Home",
+        "search": "Search",
+        "learning": "Learning",
+        "profile": "Profile",
+        "nextGenLearning": "Next-Gen Learning",
+        "exploreCourses": "Explore Courses",
+        "viewRoadmap": "View Roadmap",
+        "featuredCourses": "Featured Courses",
+        "viewAll": "View All",
+        "subscribe": "Subscribe",
+        "enterEmail": "Enter your email",
+        "joinCommunity": "Join the Builder Community",
+        "newsletterDesc": "Get weekly updates on AI breakthroughs in urban planning and exclusive course discounts."
+    },
+    "login": {
+        "welcome": "Welcome Back",
+        "desc": "Sign in to access your AI city building courses and resources.",
+        "google": "Sign in with Google",
+        "newTo": "New to AI City Builders?",
+        "createAccount": "Create an account"
+    },
+    "profile": {
+        "status": "Status",
+        "freeUser": "Free User",
+        "enrolled": "Enrolled",
+        "courses": "{{count}} Courses",
+        "accountSettings": "Account Settings",
+        "orderHistory": "Order History",
+        "notifications": "Notifications"
+    },
+    "course": {
+        "heroTitle": "Master the Future of AI Urbanism",
+        "heroDesc": "Professional education for the next generation of smart city architects, builders, and urban data scientists.",
+        "searchPlaceholder": "Search for AI courses, tools, or instructors...",
+        "topics": {
+            "all": "All Topics",
+            "architecture": "Architecture",
+            "urbanPlanning": "Urban Planning",
+            "dataScience": "Data Science"
+        }
+    },
+    "plans": {
+        "overview": "Course Overview",
+        "about": "About this course",
+        "aboutDesc": "Discover how Generative AI is revolutionizing the way we design, plan, and build the cities of tomorrow. This course bridges the gap between urban planning theory and advanced machine learning models to optimize for sustainability and efficiency.",
+        "curriculum": "Curriculum",
+        "modules": "Modules",
+        "selectPlan": "Select Your Plan",
+        "planDesc": "Choose the path that fits your learning style",
+        "basic": "Basic",
+        "pro": "Pro",
+        "recommended": "Recommended",
+        "oneTime": "One-time",
+        "enroll": "Enroll {{title}}",
+        "select": "Select {{title}}"
+    },
+    "checkout": {
+        "title": "Checkout",
+        "desc": "Finalize your Pro subscription to start building the future.",
+        "successTitle": "Payment Successful!",
+        "successDesc": "Welcome to the future of AI urbanism. Your Pro account is now active. Redirecting you home...",
+        "summary": "Order Summary",
+        "proPlan": "Pro Plan",
+        "infraAccess": "Global Infrastructure Access",
+        "cycle": "Subscription cycle",
+        "monthly": "Monthly",
+        "fee": "Processing fee",
+        "waived": "Waived",
+        "totalDue": "Total Due Today",
+        "payment": "Secure Payment via PayPal",
+        "secureInfo": "Secure Payment Processing",
+        "verifiedNode": "Verified Global Node",
+        "terms": "By completing the payment, you agree to our Terms of Service. Your subscription will renew automatically. Securely processed by PayPal."
+    }
+}
