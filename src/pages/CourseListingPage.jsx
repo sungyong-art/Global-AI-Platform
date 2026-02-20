@@ -134,10 +134,10 @@ const CourseListingPage = () => {
                         </p>
                         <div className="flex flex-wrap gap-4 w-full md:w-auto">
                             <button className="bg-primary hover:bg-primary/90 text-white px-8 py-4 rounded-xl font-bold transition-all flex items-center gap-2">
-                                {t("common.exploreCourses")} <span className="material-symbols-outlined">arrow_forward</span>
+                                {t("course.exploreCourses")} <span className="material-symbols-outlined">arrow_forward</span>
                             </button>
                             <button className="bg-white/10 hover:bg-white/20 text-white px-8 py-4 rounded-xl font-bold backdrop-blur-sm border border-white/10 transition-all">
-                                {t("common.viewRoadmap")}
+                                {t("course.viewRoadmap")}
                             </button>
                         </div>
                     </div>

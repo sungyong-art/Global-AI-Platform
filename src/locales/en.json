@@ -26,7 +26,15 @@
     "profile": {
         "status": "Status",
         "freeUser": "Free User",
-        "enrolled": "Enrolled",
+        "enrollNow": "Enroll Now",
+        "categories": {
+            "all": "All Topics",
+            "architecture": "Architecture",
+            "urbanPlanning": "Urban Planning",
+            "dataScience": "Data Science"
+        },
+        "searchPlaceholder": "Search for AI courses, tools, or instructors...",
+        "duration": "8 weeks",
         "courses": "{{count}} Courses",
         "accountSettings": "Account Settings",
         "orderHistory": "Order History",
@@ -35,13 +43,18 @@
     "course": {
         "heroTitle": "Master the Future of AI Urbanism",
         "heroDesc": "Professional education for the next generation of smart city architects, builders, and urban data scientists.",
-        "searchPlaceholder": "Search for AI courses, tools, or instructors...",
-        "topics": {
+        "exploreCourses": "Explore Courses",
+        "viewRoadmap": "View Roadmap",
+        "foundationsTitle": "AI Foundations for Architects",
+        "dataDrivenTitle": "Data-Driven Urban Planning",
+        "enrollNow": "Enroll Now",
+        "categories": {
             "all": "All Topics",
             "architecture": "Architecture",
             "urbanPlanning": "Urban Planning",
             "dataScience": "Data Science"
-        }
+        },
+        "searchPlaceholder": "Search for AI courses, tools, or instructors..."
     },
     "plans": {
         "overview": "Course Overview",

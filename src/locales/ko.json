@@ -35,13 +35,18 @@
     "course": {
         "heroTitle": "AI 도시주의의 미래를 마스터하세요",
         "heroDesc": "차세대 스마트 시티 건축가, 빌더 및 도시 데이터 과학자를 위한 전문 교육.",
-        "searchPlaceholder": "AI 코스, 도구 또는 강사 검색...",
-        "topics": {
+        "exploreCourses": "코스 탐색",
+        "viewRoadmap": "로드맵 보기",
+        "foundationsTitle": "건축가를 위한 AI 기초",
+        "dataDrivenTitle": "데이터 기반 도시 계획",
+        "enrollNow": "지금 등록하기",
+        "categories": {
             "all": "전체 주제",
             "architecture": "건축",
             "urbanPlanning": "도시 계획",
             "dataScience": "데이터 과학"
-        }
+        },
+        "searchPlaceholder": "AI 코스, 도구 또는 강사 검색..."
     },
     "plans": {
         "overview": "코스 개요",
